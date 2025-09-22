@@ -1,0 +1,8 @@
+D:\C Sharp\halloworld\halloworld\bin\Debug\halloworld.exe.config
+D:\C Sharp\halloworld\halloworld\bin\Debug\halloworld.exe
+D:\C Sharp\halloworld\halloworld\bin\Debug\halloworld.pdb
+D:\C Sharp\halloworld\halloworld\obj\Debug\halloworld.csproj.AssemblyReference.cache
+D:\C Sharp\halloworld\halloworld\obj\Debug\halloworld.csproj.CoreCompileInputs.cache
+D:\C Sharp\halloworld\halloworld\obj\Debug\halloworld.exe
+D:\C Sharp\halloworld\halloworld\obj\Debug\halloworld.pdb
+D:\C Sharp\halloworld\halloworld\obj\Debug\halloworld.exe.config
